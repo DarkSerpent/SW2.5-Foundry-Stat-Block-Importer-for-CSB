@@ -1,4 +1,4 @@
-# SW2.5 Foundry Stat Block Importer
+# SW2.5 Foundry Stat Block Importer for CSM
 > Imports monster stat blocks from sw25.nerdsunited.com to Foundry VTT using PDF Pager and Bar Brawl
 
 ## Required Foundry VTT Modules
